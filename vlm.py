@@ -2,63 +2,115 @@ import json
 import os
 import piexif
 from PIL import Image
-from transformers import pipeline
+from transformers import AutoModelForCausalLM, AutoProcessor
+import torch
 
-# Initialize Florence-2 through Hugging Face
-vlm = pipeline("visual-question-answering", model="microsoft/florence-2-base")
+# Initialize Florence-2 with proper configuration
+model = AutoModelForCausalLM.from_pretrained(
+    "microsoft/florence-2-base",
+    trust_remote_code=True,
+    revision="refs/pr/6",  # Required for VQA capability
+    torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
+).to(torch.device("cuda" if torch.cuda.is_available() else "cpu"))
+
+processor = AutoProcessor.from_pretrained(
+    "microsoft/florence-2-base",
+    trust_remote_code=True,
+    revision="refs/pr/6"
+)
 
 def extract_geotag(image_path):
-    """Extract GPS coordinates from image EXIF data"""
+    """Extract GPS coordinates with error handling"""
     try:
         img = Image.open(image_path)
-        exif_data = piexif.load(img.info['exif'])
-        gps = exif_data['GPS']
+        exif_dict = piexif.load(img.info.get('exif', b''))
         
-        lat = gps[piexif.GPSIFD.GPSLatitude]
-        lat_ref = gps[piexif.GPSIFD.GPSLatitudeRef]
-        lon = gps[piexif.GPSIFD.GPSLongitude]
-        lon_ref = gps[piexif.GPSIFD.GPSLongitudeRef]
-        
-        # Convert to decimal degrees
-        def to_deg(v):
-            return float(v[0]) + float(v[1])/60 + float(v[2])/3600
-        
-        return {
-            'latitude': to_deg(lat) * (-1 if lat_ref == b'S' else 1),
-            'longitude': to_deg(lon) * (-1 if lon_ref == b'W' else 1)
-        }
-    except:
+        gps = exif_dict.get('GPS', {})
+        if not gps:
+            return {'latitude': 0.0, 'longitude': 0.0}
+
+        def convert_coord(coord, ref):
+            degrees = coord[0][0] / coord[0][1]
+            minutes = coord[1][0] / coord[1][1]
+            seconds = coord[2][0] / coord[2][1]
+            return degrees + (minutes / 60) + (seconds / 3600)
+
+        lat = convert_coord(gps[2], gps[1])
+        lat_ref = gps[1].decode('utf-8')
+        if lat_ref in ['S', 'W']:
+            lat = -lat
+
+        lon = convert_coord(gps[4], gps[3])
+        lon_ref = gps[3].decode('utf-8')
+        if lon_ref in ['S', 'W']:
+            lon = -lon
+
+        return {'latitude': lat, 'longitude': lon}
+    except Exception as e:
+        print(f"Geotag error in {image_path}: {str(e)}")
         return {'latitude': 0.0, 'longitude': 0.0}
 
-def rate_damage(image_path, factors):
-    """Get damage rating using Florence-2 VLM"""
-    prompt = (
-        "Assess disaster damage severity from 1-10 considering:\n" +
-        "\n".join(f"- {f}" for f in factors) +
-        "\nRespond ONLY with the numerical rating."
-    )
-    
-    result = vlm(image=image_path, question=prompt)
+def get_damage_rating(image_path, factors):
+    """Get damage rating using Florence-2 with robust parsing"""
     try:
-        return min(10, max(1, int(result['answer'].strip())))
-    except:
-        return 5  # Default if parsing fails
+        image = Image.open(image_path)
+        factors_text = "\n".join(f"- {factor}" for factor in factors)
+        
+        prompt = (
+            "<VQA>Question: What's the disaster severity from 1-10 considering:\n"
+            f"{factors_text}\n"
+            "Consider structural damage, human impact, and environmental effects.\n"
+            "Answer with only the number between 1 and 10. Answer:"
+        )
 
-# Load assessment factors
-with open('factors.txt') as f:
-    factors = [line.strip() for line in f]
+        inputs = processor(
+            text=prompt,
+            images=image,
+            return_tensors="pt"
+        ).to(model.device)
 
-# Process images
-results = []
-for img_name in os.listdir('damaged_images'):
-    img_path = os.path.join('damaged_images', img_name)
-    
-    results.append({
-        'image_name': img_name,
-        'location': extract_geotag(img_path),
-        'rating': rate_damage(img_path, factors)
-    })
+        outputs = model.generate(
+            **inputs,
+            max_new_tokens=10,
+            temperature=0.1  # For more deterministic outputs
+        )
 
-# Save results
-with open('damage_assessments.json', 'w') as f:
-    json.dump(results, f, indent=2)
+        answer = processor.decode(outputs[0], skip_special_tokens=True)
+        numbers = [int(s) for s in answer.split() if s.isdigit()]
+        rating = min(10, max(1, numbers[0])) if numbers else 5
+        return rating
+        
+    except Exception as e:
+        print(f"Error processing {image_path}: {str(e)}")
+        return 5
+
+def main():
+    # Load assessment factors
+    with open('factors.txt') as f:
+        factors = [line.strip() for line in f if line.strip()]
+
+    # Process images
+    results = []
+    for img_name in os.listdir('damaged_images'):
+        if img_name.lower().split('.')[-1] not in ['jpg', 'jpeg', 'png']:
+            continue
+            
+        img_path = os.path.join('damaged_images', img_name)
+        location = extract_geotag(img_path)
+        
+        rating = get_damage_rating(img_path, factors)
+        
+        results.append({
+            'image_name': img_name,
+            'location': location,
+            'rating': rating,
+            'factors': factors
+        })
+
+    # Save results
+    with open('damage_assessments.json', 'w') as f:
+        json.dump(results, f, indent=2)
+    print(f"Processed {len(results)} images. Results saved.")
+
+if __name__ == "__main__":
+    main()
