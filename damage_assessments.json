@@ -1,0 +1,4802 @@
+[
+  {
+    "image_name": "0.jpg",
+    "location": {
+      "latitude": 41.96296388888889,
+      "longitude": -87.72588333333333
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "1.jpg",
+    "location": {
+      "latitude": 41.752383333333334,
+      "longitude": -87.61722222222221
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "10.jpg",
+    "location": {
+      "latitude": 41.92281666666666,
+      "longitude": -87.71834166666667
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "100.jpg",
+    "location": {
+      "latitude": 41.931625,
+      "longitude": -87.70520833333333
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "101.jpg",
+    "location": {
+      "latitude": 41.91730277777778,
+      "longitude": -87.70892500000001
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "102.jpg",
+    "location": {
+      "latitude": 41.821847222222225,
+      "longitude": -87.70778611111112
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "103.jpg",
+    "location": {
+      "latitude": 41.828275000000005,
+      "longitude": -87.6894138888889
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "104.jpg",
+    "location": {
+      "latitude": 41.95899444444445,
+      "longitude": -87.71966388888889
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "105.jpg",
+    "location": {
+      "latitude": 41.80976388888889,
+      "longitude": -87.662
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "106.jpg",
+    "location": {
+      "latitude": 41.947602777777774,
+      "longitude": -87.68743055555557
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "107.jpg",
+    "location": {
+      "latitude": 41.851394444444445,
+      "longitude": -87.69426111111112
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "108.jpg",
+    "location": {
+      "latitude": 41.85705277777778,
+      "longitude": -87.69979444444445
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "109.jpg",
+    "location": {
+      "latitude": 41.93122222222222,
+      "longitude": -87.70761944444445
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "11.jpg",
+    "location": {
+      "latitude": 41.862722222222224,
+      "longitude": -87.70823888888889
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "110.jpg",
+    "location": {
+      "latitude": 41.74470277777778,
+      "longitude": -87.61858888888888
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 0
+  },
+  {
+    "image_name": "111.jpg",
+    "location": {
+      "latitude": 41.86813333333333,
+      "longitude": -87.69800833333333
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "112.jpg",
+    "location": {
+      "latitude": 41.914877777777775,
+      "longitude": -87.70205277777778
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "113.jpg",
+    "location": {
+      "latitude": 41.92838333333333,
+      "longitude": -87.69945833333334
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "114.jpg",
+    "location": {
+      "latitude": 41.81345833333333,
+      "longitude": -87.66658055555556
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "115.jpg",
+    "location": {
+      "latitude": 41.92075555555555,
+      "longitude": -87.71212222222222
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "116.jpg",
+    "location": {
+      "latitude": 41.73997222222222,
+      "longitude": -87.61894166666666
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "117.jpg",
+    "location": {
+      "latitude": 41.800127777777774,
+      "longitude": -87.66238611111112
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "118.jpg",
+    "location": {
+      "latitude": 41.85688888888889,
+      "longitude": -87.69107777777778
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "119.jpg",
+    "location": {
+      "latitude": 41.74995277777778,
+      "longitude": -87.6065111111111
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "12.jpg",
+    "location": {
+      "latitude": 41.80405,
+      "longitude": -87.67112222222222
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "120.jpg",
+    "location": {
+      "latitude": 41.822613888888895,
+      "longitude": -87.69018611111112
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "121.jpg",
+    "location": {
+      "latitude": 41.96010277777778,
+      "longitude": -87.68859166666667
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "122.jpg",
+    "location": {
+      "latitude": 41.930636111111106,
+      "longitude": -87.70643055555556
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "123.jpg",
+    "location": {
+      "latitude": 41.75556388888889,
+      "longitude": -87.62209999999999
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "124.jpg",
+    "location": {
+      "latitude": 41.814899999999994,
+      "longitude": -87.69452222222223
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "125.jpg",
+    "location": {
+      "latitude": 41.961422222222225,
+      "longitude": -87.68924444444445
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "126.jpg",
+    "location": {
+      "latitude": 41.78390833333333,
+      "longitude": -87.63805555555557
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "127.jpg",
+    "location": {
+      "latitude": 41.95299722222222,
+      "longitude": -87.68660277777778
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "128.jpg",
+    "location": {
+      "latitude": 41.8523,
+      "longitude": -87.70867777777778
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "129.jpg",
+    "location": {
+      "latitude": 41.810849999999995,
+      "longitude": -87.67159444444445
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "13.jpg",
+    "location": {
+      "latitude": 41.77256944444444,
+      "longitude": -87.64721666666668
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 3
+  },
+  {
+    "image_name": "130.jpg",
+    "location": {
+      "latitude": 41.813961111111105,
+      "longitude": -87.68166944444445
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "131.jpg",
+    "location": {
+      "latitude": 41.866816666666665,
+      "longitude": -87.69540277777779
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "132.jpg",
+    "location": {
+      "latitude": 41.94786944444444,
+      "longitude": -87.68469166666667
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "133.jpg",
+    "location": {
+      "latitude": 41.73954444444445,
+      "longitude": -87.62158888888888
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 1
+  },
+  {
+    "image_name": "134.jpg",
+    "location": {
+      "latitude": 41.77137777777778,
+      "longitude": -87.64825
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 3
+  },
+  {
+    "image_name": "135.jpg",
+    "location": {
+      "latitude": 41.963797222222226,
+      "longitude": -87.68608888888889
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "136.jpg",
+    "location": {
+      "latitude": 41.75459722222222,
+      "longitude": -87.61602777777777
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "137.jpg",
+    "location": {
+      "latitude": 41.82440555555556,
+      "longitude": -87.70016666666668
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "138.jpg",
+    "location": {
+      "latitude": 41.825472222222224,
+      "longitude": -87.6896
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "139.jpg",
+    "location": {
+      "latitude": 41.85897222222222,
+      "longitude": -87.70687222222223
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "14.jpg",
+    "location": {
+      "latitude": 41.772302777777774,
+      "longitude": -87.64343611111111
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "140.jpg",
+    "location": {
+      "latitude": 41.92685833333333,
+      "longitude": -87.7174611111111
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "141.jpg",
+    "location": {
+      "latitude": 41.91594444444444,
+      "longitude": -87.7016888888889
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "142.jpg",
+    "location": {
+      "latitude": 41.92883888888888,
+      "longitude": -87.70357222222222
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "143.jpg",
+    "location": {
+      "latitude": 41.813316666666665,
+      "longitude": -87.69862222222223
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "144.jpg",
+    "location": {
+      "latitude": 41.92733333333333,
+      "longitude": -87.71825
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "145.jpg",
+    "location": {
+      "latitude": 41.73840277777778,
+      "longitude": -87.62185277777778
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 1
+  },
+  {
+    "image_name": "146.jpg",
+    "location": {
+      "latitude": 41.800127777777774,
+      "longitude": -87.67866944444445
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "147.jpg",
+    "location": {
+      "latitude": 41.86105555555556,
+      "longitude": -87.69117777777778
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "148.jpg",
+    "location": {
+      "latitude": 41.924902777777774,
+      "longitude": -87.70461388888889
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "149.jpg",
+    "location": {
+      "latitude": 41.774769444444445,
+      "longitude": -87.64495000000001
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "15.jpg",
+    "location": {
+      "latitude": 41.97154444444445,
+      "longitude": -87.722775
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "150.jpg",
+    "location": {
+      "latitude": 41.744975000000004,
+      "longitude": -87.61799722222221
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 0
+  },
+  {
+    "image_name": "151.jpg",
+    "location": {
+      "latitude": 41.96723055555556,
+      "longitude": -87.72136666666667
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "152.jpg",
+    "location": {
+      "latitude": 41.80059444444444,
+      "longitude": -87.67935277777778
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "153.jpg",
+    "location": {
+      "latitude": 41.81298611111111,
+      "longitude": -87.67700555555557
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "154.jpg",
+    "location": {
+      "latitude": 41.86497777777778,
+      "longitude": -87.69768333333333
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "155.jpg",
+    "location": {
+      "latitude": 41.921588888888884,
+      "longitude": -87.71683888888889
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "156.jpg",
+    "location": {
+      "latitude": 41.75328888888889,
+      "longitude": -87.6197611111111
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "157.jpg",
+    "location": {
+      "latitude": 41.7444,
+      "longitude": -87.60740833333332
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "158.jpg",
+    "location": {
+      "latitude": 41.78415833333333,
+      "longitude": -87.64825833333335
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "159.jpg",
+    "location": {
+      "latitude": 41.949688888888886,
+      "longitude": -87.68802500000001
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "16.jpg",
+    "location": {
+      "latitude": 41.971525,
+      "longitude": -87.72592222222222
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "160.jpg",
+    "location": {
+      "latitude": 41.86063611111111,
+      "longitude": -87.707125
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "161.jpg",
+    "location": {
+      "latitude": 41.91874166666666,
+      "longitude": -87.70824722222223
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "162.jpg",
+    "location": {
+      "latitude": 41.80966944444444,
+      "longitude": -87.66578333333334
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "163.jpg",
+    "location": {
+      "latitude": 41.96267777777778,
+      "longitude": -87.67802777777779
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "164.jpg",
+    "location": {
+      "latitude": 41.85039166666667,
+      "longitude": -87.70928888888889
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "165.jpg",
+    "location": {
+      "latitude": 41.73767222222222,
+      "longitude": -87.61919444444443
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "166.jpg",
+    "location": {
+      "latitude": 41.76813333333333,
+      "longitude": -87.63581111111112
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "167.jpg",
+    "location": {
+      "latitude": 41.80866944444444,
+      "longitude": -87.6957
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "168.jpg",
+    "location": {
+      "latitude": 41.75140555555556,
+      "longitude": -87.61605
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "169.jpg",
+    "location": {
+      "latitude": 41.86771944444445,
+      "longitude": -87.7085
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "17.jpg",
+    "location": {
+      "latitude": 41.811625,
+      "longitude": -87.69599722222223
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "170.jpg",
+    "location": {
+      "latitude": 41.81421388888889,
+      "longitude": -87.67660000000001
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "171.jpg",
+    "location": {
+      "latitude": 41.971325,
+      "longitude": -87.72259444444444
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "172.jpg",
+    "location": {
+      "latitude": 41.79538888888889,
+      "longitude": -87.66539444444444
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "173.jpg",
+    "location": {
+      "latitude": 41.82022222222223,
+      "longitude": -87.69559166666667
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "174.jpg",
+    "location": {
+      "latitude": 41.96418333333334,
+      "longitude": -87.68279166666667
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "175.jpg",
+    "location": {
+      "latitude": 41.806602777777776,
+      "longitude": -87.68016666666666
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "176.jpg",
+    "location": {
+      "latitude": 41.97521666666667,
+      "longitude": -87.72610277777778
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "177.jpg",
+    "location": {
+      "latitude": 41.978458333333336,
+      "longitude": -87.73275833333334
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "178.jpg",
+    "location": {
+      "latitude": 41.955063888888894,
+      "longitude": -87.67236944444446
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "179.jpg",
+    "location": {
+      "latitude": 41.824488888888894,
+      "longitude": -87.70508611111111
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "18.jpg",
+    "location": {
+      "latitude": 41.92469444444444,
+      "longitude": -87.70670833333334
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "180.jpg",
+    "location": {
+      "latitude": 41.778727777777775,
+      "longitude": -87.64755277777779
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "181.jpg",
+    "location": {
+      "latitude": 41.77565555555555,
+      "longitude": -87.64656666666667
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "182.jpg",
+    "location": {
+      "latitude": 41.971336111111114,
+      "longitude": -87.73133333333334
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "183.jpg",
+    "location": {
+      "latitude": 41.82393611111112,
+      "longitude": -87.70730277777778
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "184.jpg",
+    "location": {
+      "latitude": 41.92465555555555,
+      "longitude": -87.70224166666667
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 2
+  },
+  {
+    "image_name": "185.jpg",
+    "location": {
+      "latitude": 41.86335555555556,
+      "longitude": -87.69693333333333
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "186.jpg",
+    "location": {
+      "latitude": 41.9195,
+      "longitude": -87.71477777777778
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "187.jpg",
+    "location": {
+      "latitude": 41.82258055555556,
+      "longitude": -87.70349444444444
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "188.jpg",
+    "location": {
+      "latitude": 41.75225833333333,
+      "longitude": -87.61954722222221
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "189.jpg",
+    "location": {
+      "latitude": 41.812580555555556,
+      "longitude": -87.66626944444445
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "19.jpg",
+    "location": {
+      "latitude": 41.75160833333333,
+      "longitude": -87.607975
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "190.jpg",
+    "location": {
+      "latitude": 41.92794722222222,
+      "longitude": -87.7
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "191.jpg",
+    "location": {
+      "latitude": 41.965725000000006,
+      "longitude": -87.73161388888889
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "192.jpg",
+    "location": {
+      "latitude": 41.77894722222222,
+      "longitude": -87.63720555555557
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "193.jpg",
+    "location": {
+      "latitude": 41.86396388888889,
+      "longitude": -87.70578611111111
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "194.jpg",
+    "location": {
+      "latitude": 41.80934444444444,
+      "longitude": -87.66945277777778
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "195.jpg",
+    "location": {
+      "latitude": 41.80845,
+      "longitude": -87.67337500000001
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "196.jpg",
+    "location": {
+      "latitude": 41.803038888888885,
+      "longitude": -87.6708888888889
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "197.jpg",
+    "location": {
+      "latitude": 41.76574166666666,
+      "longitude": -87.64644444444446
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 6
+  },
+  {
+    "image_name": "198.jpg",
+    "location": {
+      "latitude": 41.80698611111111,
+      "longitude": -87.66766666666668
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "199.jpg",
+    "location": {
+      "latitude": 41.92680277777777,
+      "longitude": -87.71007777777778
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "2.jpg",
+    "location": {
+      "latitude": 41.970286111111115,
+      "longitude": -87.73289166666667
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "20.jpg",
+    "location": {
+      "latitude": 41.812324999999994,
+      "longitude": -87.69079722222223
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "200.jpg",
+    "location": {
+      "latitude": 41.812061111111106,
+      "longitude": -87.69906388888889
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "201.jpg",
+    "location": {
+      "latitude": 41.96004722222222,
+      "longitude": -87.72683888888889
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "202.jpg",
+    "location": {
+      "latitude": 41.922325,
+      "longitude": -87.71125277777779
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "203.jpg",
+    "location": {
+      "latitude": 41.828225,
+      "longitude": -87.69944444444445
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "204.jpg",
+    "location": {
+      "latitude": 41.92921388888889,
+      "longitude": -87.71478611111111
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "205.jpg",
+    "location": {
+      "latitude": 41.80543333333333,
+      "longitude": -87.66661944444445
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 4
+  },
+  {
+    "image_name": "206.jpg",
+    "location": {
+      "latitude": 41.812863888888884,
+      "longitude": -87.66980277777779
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "207.jpg",
+    "location": {
+      "latitude": 41.97660277777778,
+      "longitude": -87.71862222222222
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "208.jpg",
+    "location": {
+      "latitude": 41.91515277777778,
+      "longitude": -87.718425
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "209.jpg",
+    "location": {
+      "latitude": 41.923763888888885,
+      "longitude": -87.70311666666667
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 2
+  },
+  {
+    "image_name": "21.jpg",
+    "location": {
+      "latitude": 41.94961111111111,
+      "longitude": -87.67354166666667
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "210.jpg",
+    "location": {
+      "latitude": 41.85070833333334,
+      "longitude": -87.69207777777778
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "211.jpg",
+    "location": {
+      "latitude": 41.799074999999995,
+      "longitude": -87.66815277777778
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "212.jpg",
+    "location": {
+      "latitude": 41.85257777777778,
+      "longitude": -87.70717777777779
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "213.jpg",
+    "location": {
+      "latitude": 41.825358333333334,
+      "longitude": -87.69218055555555
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "214.jpg",
+    "location": {
+      "latitude": 41.82846944444445,
+      "longitude": -87.69725833333334
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "215.jpg",
+    "location": {
+      "latitude": 41.77312222222222,
+      "longitude": -87.6504888888889
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "216.jpg",
+    "location": {
+      "latitude": 41.92095,
+      "longitude": -87.70097222222222
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "217.jpg",
+    "location": {
+      "latitude": 41.95653055555556,
+      "longitude": -87.6868
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "218.jpg",
+    "location": {
+      "latitude": 41.812041666666666,
+      "longitude": -87.66513333333334
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "219.jpg",
+    "location": {
+      "latitude": 41.771455555555555,
+      "longitude": -87.64718888888889
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 3
+  },
+  {
+    "image_name": "22.jpg",
+    "location": {
+      "latitude": 41.82527777777778,
+      "longitude": -87.68897777777778
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "220.jpg",
+    "location": {
+      "latitude": 41.82136944444445,
+      "longitude": -87.70731944444445
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "221.jpg",
+    "location": {
+      "latitude": 41.93076666666666,
+      "longitude": -87.71526944444444
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "222.jpg",
+    "location": {
+      "latitude": 41.77390555555556,
+      "longitude": -87.64540833333334
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "223.jpg",
+    "location": {
+      "latitude": 41.97478888888889,
+      "longitude": -87.73066944444444
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "224.jpg",
+    "location": {
+      "latitude": 41.752538888888886,
+      "longitude": -87.61701111111111
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "225.jpg",
+    "location": {
+      "latitude": 41.8052,
+      "longitude": -87.66453333333334
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 4
+  },
+  {
+    "image_name": "226.jpg",
+    "location": {
+      "latitude": 41.978455555555556,
+      "longitude": -87.73046666666667
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "227.jpg",
+    "location": {
+      "latitude": 41.868325,
+      "longitude": -87.69555
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "228.jpg",
+    "location": {
+      "latitude": 41.86535277777778,
+      "longitude": -87.70025833333334
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "229.jpg",
+    "location": {
+      "latitude": 41.815799999999996,
+      "longitude": -87.70395555555555
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "23.jpg",
+    "location": {
+      "latitude": 41.91749722222222,
+      "longitude": -87.71343055555556
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "230.jpg",
+    "location": {
+      "latitude": 41.92159722222222,
+      "longitude": -87.70710555555556
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 5
+  },
+  {
+    "image_name": "231.jpg",
+    "location": {
+      "latitude": 41.80579722222222,
+      "longitude": -87.68100277777778
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "232.jpg",
+    "location": {
+      "latitude": 41.95727777777778,
+      "longitude": -87.68298333333334
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "233.jpg",
+    "location": {
+      "latitude": 41.94660833333333,
+      "longitude": -87.68201111111111
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "234.jpg",
+    "location": {
+      "latitude": 41.80949722222222,
+      "longitude": -87.70346388888889
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "235.jpg",
+    "location": {
+      "latitude": 41.74417777777778,
+      "longitude": -87.61417222222222
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "236.jpg",
+    "location": {
+      "latitude": 41.918680555555554,
+      "longitude": -87.70930277777778
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "237.jpg",
+    "location": {
+      "latitude": 41.81320833333333,
+      "longitude": -87.70555
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "238.jpg",
+    "location": {
+      "latitude": 41.784127777777776,
+      "longitude": -87.64925000000001
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "239.jpg",
+    "location": {
+      "latitude": 41.862833333333334,
+      "longitude": -87.69477777777779
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "24.jpg",
+    "location": {
+      "latitude": 41.97776666666667,
+      "longitude": -87.72359166666666
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "240.jpg",
+    "location": {
+      "latitude": 41.795202777777774,
+      "longitude": -87.67763611111111
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "241.jpg",
+    "location": {
+      "latitude": 41.752158333333334,
+      "longitude": -87.60530833333333
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "242.jpg",
+    "location": {
+      "latitude": 41.958733333333335,
+      "longitude": -87.68315
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "243.jpg",
+    "location": {
+      "latitude": 41.806466666666665,
+      "longitude": -87.67844166666667
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "244.jpg",
+    "location": {
+      "latitude": 41.78220833333333,
+      "longitude": -87.64385277777778
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "245.jpg",
+    "location": {
+      "latitude": 41.743269444444444,
+      "longitude": -87.6115611111111
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "246.jpg",
+    "location": {
+      "latitude": 41.854800000000004,
+      "longitude": -87.70332777777779
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "247.jpg",
+    "location": {
+      "latitude": 41.73959722222222,
+      "longitude": -87.62100277777778
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 1
+  },
+  {
+    "image_name": "248.jpg",
+    "location": {
+      "latitude": 41.96166111111111,
+      "longitude": -87.69041111111112
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "249.jpg",
+    "location": {
+      "latitude": 41.86301111111111,
+      "longitude": -87.6935388888889
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "25.jpg",
+    "location": {
+      "latitude": 41.80886388888889,
+      "longitude": -87.70816388888889
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "250.jpg",
+    "location": {
+      "latitude": 41.97407777777778,
+      "longitude": -87.71892777777778
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "251.jpg",
+    "location": {
+      "latitude": 41.85005,
+      "longitude": -87.69099166666668
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "252.jpg",
+    "location": {
+      "latitude": 41.96867777777778,
+      "longitude": -87.7282388888889
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "253.jpg",
+    "location": {
+      "latitude": 41.9619,
+      "longitude": -87.71416111111111
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "254.jpg",
+    "location": {
+      "latitude": 41.86756944444444,
+      "longitude": -87.69991666666667
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "255.jpg",
+    "location": {
+      "latitude": 41.812913888888886,
+      "longitude": -87.69561111111112
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "256.jpg",
+    "location": {
+      "latitude": 41.92129166666666,
+      "longitude": -87.71601944444444
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "257.jpg",
+    "location": {
+      "latitude": 41.80022777777778,
+      "longitude": -87.67670833333334
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "258.jpg",
+    "location": {
+      "latitude": 41.86364722222223,
+      "longitude": -87.69710277777779
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "259.jpg",
+    "location": {
+      "latitude": 41.914699999999996,
+      "longitude": -87.70056944444445
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "26.jpg",
+    "location": {
+      "latitude": 41.86035277777778,
+      "longitude": -87.69084722222223
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "260.jpg",
+    "location": {
+      "latitude": 41.92259722222222,
+      "longitude": -87.69957777777778
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "261.jpg",
+    "location": {
+      "latitude": 41.868405555555555,
+      "longitude": -87.69728333333333
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "262.jpg",
+    "location": {
+      "latitude": 41.74098611111111,
+      "longitude": -87.60952222222221
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "263.jpg",
+    "location": {
+      "latitude": 41.96151666666667,
+      "longitude": -87.68806666666667
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "264.jpg",
+    "location": {
+      "latitude": 41.75546388888889,
+      "longitude": -87.61413888888889
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "265.jpg",
+    "location": {
+      "latitude": 41.74541111111111,
+      "longitude": -87.61990277777777
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 0
+  },
+  {
+    "image_name": "266.jpg",
+    "location": {
+      "latitude": 41.86268888888889,
+      "longitude": -87.70494444444445
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "267.jpg",
+    "location": {
+      "latitude": 41.74444166666667,
+      "longitude": -87.61774444444444
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 0
+  },
+  {
+    "image_name": "268.jpg",
+    "location": {
+      "latitude": 41.866394444444445,
+      "longitude": -87.702425
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "269.jpg",
+    "location": {
+      "latitude": 41.73619722222222,
+      "longitude": -87.60836944444443
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "27.jpg",
+    "location": {
+      "latitude": 41.74153611111111,
+      "longitude": -87.61305833333333
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "270.jpg",
+    "location": {
+      "latitude": 41.82848333333334,
+      "longitude": -87.69368611111112
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "271.jpg",
+    "location": {
+      "latitude": 41.812999999999995,
+      "longitude": -87.69555555555556
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "272.jpg",
+    "location": {
+      "latitude": 41.80985833333333,
+      "longitude": -87.67178611111112
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "273.jpg",
+    "location": {
+      "latitude": 41.801988888888886,
+      "longitude": -87.66933055555556
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "274.jpg",
+    "location": {
+      "latitude": 41.74381388888889,
+      "longitude": -87.61696666666666
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 0
+  },
+  {
+    "image_name": "275.jpg",
+    "location": {
+      "latitude": 41.79666666666667,
+      "longitude": -87.66906666666667
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "276.jpg",
+    "location": {
+      "latitude": 41.777430555555554,
+      "longitude": -87.64050277777778
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "277.jpg",
+    "location": {
+      "latitude": 41.81162777777777,
+      "longitude": -87.6931888888889
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "278.jpg",
+    "location": {
+      "latitude": 41.805169444444445,
+      "longitude": -87.66368055555556
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 4
+  },
+  {
+    "image_name": "279.jpg",
+    "location": {
+      "latitude": 41.952508333333334,
+      "longitude": -87.67276666666667
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "28.jpg",
+    "location": {
+      "latitude": 41.76842222222222,
+      "longitude": -87.65067222222223
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "280.jpg",
+    "location": {
+      "latitude": 41.74574166666667,
+      "longitude": -87.61842777777777
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 0
+  },
+  {
+    "image_name": "281.jpg",
+    "location": {
+      "latitude": 41.92668888888889,
+      "longitude": -87.71395277777778
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "282.jpg",
+    "location": {
+      "latitude": 41.75328888888889,
+      "longitude": -87.6130361111111
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "283.jpg",
+    "location": {
+      "latitude": 41.96896666666667,
+      "longitude": -87.72635
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "284.jpg",
+    "location": {
+      "latitude": 41.91356111111111,
+      "longitude": -87.70769444444444
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "285.jpg",
+    "location": {
+      "latitude": 41.91787222222222,
+      "longitude": -87.707525
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "286.jpg",
+    "location": {
+      "latitude": 41.73898055555556,
+      "longitude": -87.6202111111111
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 1
+  },
+  {
+    "image_name": "287.jpg",
+    "location": {
+      "latitude": 41.82811388888889,
+      "longitude": -87.69492777777778
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "288.jpg",
+    "location": {
+      "latitude": 41.755202777777775,
+      "longitude": -87.61391111111111
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "289.jpg",
+    "location": {
+      "latitude": 41.74366666666667,
+      "longitude": -87.60978333333333
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "29.jpg",
+    "location": {
+      "latitude": 41.921677777777774,
+      "longitude": -87.70824722222223
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 5
+  },
+  {
+    "image_name": "290.jpg",
+    "location": {
+      "latitude": 41.74579166666667,
+      "longitude": -87.60991944444444
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "291.jpg",
+    "location": {
+      "latitude": 41.96772777777778,
+      "longitude": -87.72710555555555
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "292.jpg",
+    "location": {
+      "latitude": 41.96350833333334,
+      "longitude": -87.71835833333334
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "293.jpg",
+    "location": {
+      "latitude": 41.959450000000004,
+      "longitude": -87.72750277777779
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "294.jpg",
+    "location": {
+      "latitude": 41.75193055555555,
+      "longitude": -87.62264722222221
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "295.jpg",
+    "location": {
+      "latitude": 41.82684166666667,
+      "longitude": -87.703025
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "296.jpg",
+    "location": {
+      "latitude": 41.91798333333333,
+      "longitude": -87.71051111111112
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "297.jpg",
+    "location": {
+      "latitude": 41.741886111111114,
+      "longitude": -87.62266388888888
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "298.jpg",
+    "location": {
+      "latitude": 41.950836111111116,
+      "longitude": -87.6898638888889
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "299.jpg",
+    "location": {
+      "latitude": 41.755694444444444,
+      "longitude": -87.62053611111111
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "3.jpg",
+    "location": {
+      "latitude": 41.954394444444446,
+      "longitude": -87.68827222222222
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "30.jpg",
+    "location": {
+      "latitude": 41.77633888888889,
+      "longitude": -87.64331111111112
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "300.jpg",
+    "location": {
+      "latitude": 41.92367222222222,
+      "longitude": -87.71287222222223
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "301.jpg",
+    "location": {
+      "latitude": 41.92546111111111,
+      "longitude": -87.70176944444445
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 2
+  },
+  {
+    "image_name": "302.jpg",
+    "location": {
+      "latitude": 41.85050555555556,
+      "longitude": -87.70920833333334
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "303.jpg",
+    "location": {
+      "latitude": 41.81233333333333,
+      "longitude": -87.6717
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "304.jpg",
+    "location": {
+      "latitude": 41.804094444444445,
+      "longitude": -87.66285
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "305.jpg",
+    "location": {
+      "latitude": 41.73971111111111,
+      "longitude": -87.61512777777777
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "306.jpg",
+    "location": {
+      "latitude": 41.950786111111114,
+      "longitude": -87.68057222222222
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "307.jpg",
+    "location": {
+      "latitude": 41.977586111111115,
+      "longitude": -87.71570555555556
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "308.jpg",
+    "location": {
+      "latitude": 41.947466666666664,
+      "longitude": -87.67294722222222
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "309.jpg",
+    "location": {
+      "latitude": 41.95239166666667,
+      "longitude": -87.682675
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "31.jpg",
+    "location": {
+      "latitude": 41.86261666666667,
+      "longitude": -87.70996666666667
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "310.jpg",
+    "location": {
+      "latitude": 41.77188611111111,
+      "longitude": -87.64259722222224
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "311.jpg",
+    "location": {
+      "latitude": 41.81478611111111,
+      "longitude": -87.69753055555556
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "312.jpg",
+    "location": {
+      "latitude": 41.74733888888889,
+      "longitude": -87.61413333333333
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "313.jpg",
+    "location": {
+      "latitude": 41.86850833333333,
+      "longitude": -87.70466388888889
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "314.jpg",
+    "location": {
+      "latitude": 41.85190277777778,
+      "longitude": -87.69288055555556
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "315.jpg",
+    "location": {
+      "latitude": 41.91669722222222,
+      "longitude": -87.71474166666667
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "316.jpg",
+    "location": {
+      "latitude": 41.949955555555555,
+      "longitude": -87.67849722222223
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "317.jpg",
+    "location": {
+      "latitude": 41.97759722222222,
+      "longitude": -87.72003611111111
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "318.jpg",
+    "location": {
+      "latitude": 41.96158333333334,
+      "longitude": -87.68545
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "319.jpg",
+    "location": {
+      "latitude": 41.805322222222216,
+      "longitude": -87.66343888888889
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 4
+  },
+  {
+    "image_name": "32.jpg",
+    "location": {
+      "latitude": 41.820888888888895,
+      "longitude": -87.70336666666667
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "320.jpg",
+    "location": {
+      "latitude": 41.96358611111111,
+      "longitude": -87.69077222222222
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "321.jpg",
+    "location": {
+      "latitude": 41.751775,
+      "longitude": -87.60955
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "322.jpg",
+    "location": {
+      "latitude": 41.75275833333333,
+      "longitude": -87.61881388888888
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "323.jpg",
+    "location": {
+      "latitude": 41.77495277777778,
+      "longitude": -87.644225
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "324.jpg",
+    "location": {
+      "latitude": 41.86909166666667,
+      "longitude": -87.6982
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "325.jpg",
+    "location": {
+      "latitude": 41.925844444444444,
+      "longitude": -87.71356111111112
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "326.jpg",
+    "location": {
+      "latitude": 41.75046666666667,
+      "longitude": -87.6098111111111
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "327.jpg",
+    "location": {
+      "latitude": 41.78247777777778,
+      "longitude": -87.64773333333333
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "328.jpg",
+    "location": {
+      "latitude": 41.857347222222224,
+      "longitude": -87.70816111111111
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "329.jpg",
+    "location": {
+      "latitude": 41.96051388888889,
+      "longitude": -87.68287777777778
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "33.jpg",
+    "location": {
+      "latitude": 41.76694444444444,
+      "longitude": -87.63975555555557
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "330.jpg",
+    "location": {
+      "latitude": 41.95599166666667,
+      "longitude": -87.68438055555556
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "331.jpg",
+    "location": {
+      "latitude": 41.97540277777778,
+      "longitude": -87.71645833333334
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "332.jpg",
+    "location": {
+      "latitude": 41.81081388888889,
+      "longitude": -87.70173055555556
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "333.jpg",
+    "location": {
+      "latitude": 41.75246111111111,
+      "longitude": -87.6151
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "334.jpg",
+    "location": {
+      "latitude": 41.86544722222222,
+      "longitude": -87.70386388888889
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "335.jpg",
+    "location": {
+      "latitude": 41.76510833333333,
+      "longitude": -87.64200833333334
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "336.jpg",
+    "location": {
+      "latitude": 41.92797222222222,
+      "longitude": -87.71186666666667
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "337.jpg",
+    "location": {
+      "latitude": 41.77290555555555,
+      "longitude": -87.64274166666668
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "338.jpg",
+    "location": {
+      "latitude": 41.856683333333336,
+      "longitude": -87.690475
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "339.jpg",
+    "location": {
+      "latitude": 41.750730555555556,
+      "longitude": -87.61466388888888
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "34.jpg",
+    "location": {
+      "latitude": 41.74131388888889,
+      "longitude": -87.6111611111111
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "340.jpg",
+    "location": {
+      "latitude": 41.766075,
+      "longitude": -87.6457388888889
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 6
+  },
+  {
+    "image_name": "341.jpg",
+    "location": {
+      "latitude": 41.950269444444444,
+      "longitude": -87.67811388888889
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "342.jpg",
+    "location": {
+      "latitude": 41.924280555555555,
+      "longitude": -87.70189722222223
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 2
+  },
+  {
+    "image_name": "343.jpg",
+    "location": {
+      "latitude": 41.822988888888894,
+      "longitude": -87.70773055555556
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "344.jpg",
+    "location": {
+      "latitude": 41.77003055555556,
+      "longitude": -87.64821944444445
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "345.jpg",
+    "location": {
+      "latitude": 41.955536111111115,
+      "longitude": -87.67767222222223
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "346.jpg",
+    "location": {
+      "latitude": 41.85573055555556,
+      "longitude": -87.70241111111112
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "347.jpg",
+    "location": {
+      "latitude": 41.74627777777778,
+      "longitude": -87.61883055555555
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 0
+  },
+  {
+    "image_name": "348.jpg",
+    "location": {
+      "latitude": 41.8634,
+      "longitude": -87.701475
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "349.jpg",
+    "location": {
+      "latitude": 41.921475,
+      "longitude": -87.70686944444445
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 5
+  },
+  {
+    "image_name": "35.jpg",
+    "location": {
+      "latitude": 41.86265,
+      "longitude": -87.70318888888889
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "350.jpg",
+    "location": {
+      "latitude": 41.74698611111111,
+      "longitude": -87.61884166666665
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 0
+  },
+  {
+    "image_name": "351.jpg",
+    "location": {
+      "latitude": 41.8137,
+      "longitude": -87.69005555555556
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "352.jpg",
+    "location": {
+      "latitude": 41.94933333333333,
+      "longitude": -87.67567777777778
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "353.jpg",
+    "location": {
+      "latitude": 41.97329722222222,
+      "longitude": -87.72069722222223
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "354.jpg",
+    "location": {
+      "latitude": 41.969433333333335,
+      "longitude": -87.72098333333334
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "355.jpg",
+    "location": {
+      "latitude": 41.86448055555556,
+      "longitude": -87.69530555555556
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "356.jpg",
+    "location": {
+      "latitude": 41.971186111111116,
+      "longitude": -87.72206111111112
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "357.jpg",
+    "location": {
+      "latitude": 41.92160555555555,
+      "longitude": -87.7089888888889
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 5
+  },
+  {
+    "image_name": "358.jpg",
+    "location": {
+      "latitude": 41.91733333333333,
+      "longitude": -87.71070555555556
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "359.jpg",
+    "location": {
+      "latitude": 41.96836944444445,
+      "longitude": -87.725275
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "36.jpg",
+    "location": {
+      "latitude": 41.81228888888889,
+      "longitude": -87.70749166666667
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "360.jpg",
+    "location": {
+      "latitude": 41.750169444444445,
+      "longitude": -87.61015833333333
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "361.jpg",
+    "location": {
+      "latitude": 41.74648611111111,
+      "longitude": -87.61360833333333
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "362.jpg",
+    "location": {
+      "latitude": 41.74436111111111,
+      "longitude": -87.60842222222222
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "363.jpg",
+    "location": {
+      "latitude": 41.78471944444444,
+      "longitude": -87.65120555555556
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "364.jpg",
+    "location": {
+      "latitude": 41.864022222222225,
+      "longitude": -87.70029444444445
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "365.jpg",
+    "location": {
+      "latitude": 41.81819166666667,
+      "longitude": -87.70573611111111
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "366.jpg",
+    "location": {
+      "latitude": 41.79980277777778,
+      "longitude": -87.66282222222223
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "367.jpg",
+    "location": {
+      "latitude": 41.91753055555555,
+      "longitude": -87.70327777777779
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "368.jpg",
+    "location": {
+      "latitude": 41.866197222222226,
+      "longitude": -87.70505833333334
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "369.jpg",
+    "location": {
+      "latitude": 41.856772222222226,
+      "longitude": -87.69356388888889
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "37.jpg",
+    "location": {
+      "latitude": 41.928824999999996,
+      "longitude": -87.71578333333333
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "370.jpg",
+    "location": {
+      "latitude": 41.744769444444444,
+      "longitude": -87.60515833333332
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "371.jpg",
+    "location": {
+      "latitude": 41.977533333333334,
+      "longitude": -87.72956388888889
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "372.jpg",
+    "location": {
+      "latitude": 41.965783333333334,
+      "longitude": -87.73241944444445
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "373.jpg",
+    "location": {
+      "latitude": 41.80566111111111,
+      "longitude": -87.66510000000001
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 4
+  },
+  {
+    "image_name": "374.jpg",
+    "location": {
+      "latitude": 41.795325,
+      "longitude": -87.67439722222223
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "375.jpg",
+    "location": {
+      "latitude": 41.781644444444446,
+      "longitude": -87.64221388888889
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "376.jpg",
+    "location": {
+      "latitude": 41.81457222222222,
+      "longitude": -87.70627222222222
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "377.jpg",
+    "location": {
+      "latitude": 41.974894444444445,
+      "longitude": -87.72660555555555
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "378.jpg",
+    "location": {
+      "latitude": 41.91323055555556,
+      "longitude": -87.69911666666667
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "379.jpg",
+    "location": {
+      "latitude": 41.94923333333333,
+      "longitude": -87.682725
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "38.jpg",
+    "location": {
+      "latitude": 41.97853611111111,
+      "longitude": -87.71496944444445
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "380.jpg",
+    "location": {
+      "latitude": 41.96208055555556,
+      "longitude": -87.67584166666667
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "381.jpg",
+    "location": {
+      "latitude": 41.815099999999994,
+      "longitude": -87.70018333333334
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "382.jpg",
+    "location": {
+      "latitude": 41.738261111111115,
+      "longitude": -87.61876944444444
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "383.jpg",
+    "location": {
+      "latitude": 41.753191666666666,
+      "longitude": -87.61328888888889
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "384.jpg",
+    "location": {
+      "latitude": 41.967558333333336,
+      "longitude": -87.7243
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "385.jpg",
+    "location": {
+      "latitude": 41.766511111111114,
+      "longitude": -87.64647500000001
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 6
+  },
+  {
+    "image_name": "386.jpg",
+    "location": {
+      "latitude": 41.96429166666667,
+      "longitude": -87.72900833333334
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "387.jpg",
+    "location": {
+      "latitude": 41.85423055555556,
+      "longitude": -87.69302222222223
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "388.jpg",
+    "location": {
+      "latitude": 41.800397222222216,
+      "longitude": -87.67624722222223
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "389.jpg",
+    "location": {
+      "latitude": 41.76846388888889,
+      "longitude": -87.64269722222222
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "39.jpg",
+    "location": {
+      "latitude": 41.772663888888886,
+      "longitude": -87.64513611111111
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "390.jpg",
+    "location": {
+      "latitude": 41.805049999999994,
+      "longitude": -87.6773
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "391.jpg",
+    "location": {
+      "latitude": 41.80193333333333,
+      "longitude": -87.67866666666667
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "392.jpg",
+    "location": {
+      "latitude": 41.76530277777778,
+      "longitude": -87.63823055555557
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "393.jpg",
+    "location": {
+      "latitude": 41.81118333333333,
+      "longitude": -87.70597222222223
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "394.jpg",
+    "location": {
+      "latitude": 41.86228333333334,
+      "longitude": -87.69234722222222
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "395.jpg",
+    "location": {
+      "latitude": 41.960075,
+      "longitude": -87.67431666666667
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "396.jpg",
+    "location": {
+      "latitude": 41.737975,
+      "longitude": -87.60437222222221
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "397.jpg",
+    "location": {
+      "latitude": 41.77831944444444,
+      "longitude": -87.63636111111111
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "398.jpg",
+    "location": {
+      "latitude": 41.85068611111111,
+      "longitude": -87.69221944444445
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "399.jpg",
+    "location": {
+      "latitude": 41.86287222222222,
+      "longitude": -87.70558611111112
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "4.jpg",
+    "location": {
+      "latitude": 41.80876666666666,
+      "longitude": -87.70428055555556
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "40.jpg",
+    "location": {
+      "latitude": 41.778425,
+      "longitude": -87.64525555555556
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "41.jpg",
+    "location": {
+      "latitude": 41.96417777777778,
+      "longitude": -87.68673333333334
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "42.jpg",
+    "location": {
+      "latitude": 41.94886388888889,
+      "longitude": -87.67265
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "43.jpg",
+    "location": {
+      "latitude": 41.73634722222222,
+      "longitude": -87.60458333333332
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "44.jpg",
+    "location": {
+      "latitude": 41.814811111111105,
+      "longitude": -87.69325
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "45.jpg",
+    "location": {
+      "latitude": 41.80556111111111,
+      "longitude": -87.67985833333334
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "46.jpg",
+    "location": {
+      "latitude": 41.73717222222222,
+      "longitude": -87.61254166666666
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "47.jpg",
+    "location": {
+      "latitude": 41.92044722222222,
+      "longitude": -87.71746944444445
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "48.jpg",
+    "location": {
+      "latitude": 41.86825833333334,
+      "longitude": -87.69547777777778
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "49.jpg",
+    "location": {
+      "latitude": 41.957025,
+      "longitude": -87.67383055555555
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "5.jpg",
+    "location": {
+      "latitude": 41.92734166666666,
+      "longitude": -87.70787222222222
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "50.jpg",
+    "location": {
+      "latitude": 41.796902777777774,
+      "longitude": -87.66826666666667
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "51.jpg",
+    "location": {
+      "latitude": 41.958761111111116,
+      "longitude": -87.71739722222222
+    },
+    "rating": 10,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "52.jpg",
+    "location": {
+      "latitude": 41.96019722222223,
+      "longitude": -87.7217611111111
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "53.jpg",
+    "location": {
+      "latitude": 41.96428055555556,
+      "longitude": -87.67561666666667
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "54.jpg",
+    "location": {
+      "latitude": 41.76869166666667,
+      "longitude": -87.64316111111111
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "55.jpg",
+    "location": {
+      "latitude": 41.92117777777778,
+      "longitude": -87.71078888888889
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "56.jpg",
+    "location": {
+      "latitude": 41.969144444444446,
+      "longitude": -87.73204166666667
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "57.jpg",
+    "location": {
+      "latitude": 41.96522222222222,
+      "longitude": -87.71393055555556
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "58.jpg",
+    "location": {
+      "latitude": 41.85026388888889,
+      "longitude": -87.7054138888889
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "59.jpg",
+    "location": {
+      "latitude": 41.81609444444444,
+      "longitude": -87.70498055555557
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "6.jpg",
+    "location": {
+      "latitude": 41.79523333333333,
+      "longitude": -87.67580833333334
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "60.jpg",
+    "location": {
+      "latitude": 41.75186111111111,
+      "longitude": -87.60776944444444
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "61.jpg",
+    "location": {
+      "latitude": 41.97686111111111,
+      "longitude": -87.73028333333333
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "62.jpg",
+    "location": {
+      "latitude": 41.82562777777778,
+      "longitude": -87.70596944444445
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "63.jpg",
+    "location": {
+      "latitude": 41.810566666666666,
+      "longitude": -87.69391944444445
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "64.jpg",
+    "location": {
+      "latitude": 41.799191666666665,
+      "longitude": -87.67205277777778
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "65.jpg",
+    "location": {
+      "latitude": 41.81151111111111,
+      "longitude": -87.6984
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "66.jpg",
+    "location": {
+      "latitude": 41.93183611111111,
+      "longitude": -87.7112
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "67.jpg",
+    "location": {
+      "latitude": 41.74987222222222,
+      "longitude": -87.60486666666667
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "68.jpg",
+    "location": {
+      "latitude": 41.95160277777778,
+      "longitude": -87.68359166666667
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "69.jpg",
+    "location": {
+      "latitude": 41.736975,
+      "longitude": -87.60602499999999
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "7.jpg",
+    "location": {
+      "latitude": 41.965944444444446,
+      "longitude": -87.71697222222222
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "70.jpg",
+    "location": {
+      "latitude": 41.953900000000004,
+      "longitude": -87.6819138888889
+    },
+    "rating": 6,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "71.jpg",
+    "location": {
+      "latitude": 41.97369166666667,
+      "longitude": -87.73208055555556
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "72.jpg",
+    "location": {
+      "latitude": 41.95875277777778,
+      "longitude": -87.67962777777778
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "73.jpg",
+    "location": {
+      "latitude": 41.779583333333335,
+      "longitude": -87.63433055555556
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "74.jpg",
+    "location": {
+      "latitude": 41.767649999999996,
+      "longitude": -87.6464138888889
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 6
+  },
+  {
+    "image_name": "75.jpg",
+    "location": {
+      "latitude": 41.819861111111116,
+      "longitude": -87.70269444444445
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "76.jpg",
+    "location": {
+      "latitude": 41.92907222222222,
+      "longitude": -87.71157777777778
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "77.jpg",
+    "location": {
+      "latitude": 41.932125,
+      "longitude": -87.70949444444445
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "78.jpg",
+    "location": {
+      "latitude": 41.775080555555554,
+      "longitude": -87.63633055555556
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "79.jpg",
+    "location": {
+      "latitude": 41.805677777777774,
+      "longitude": -87.66878611111112
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "8.jpg",
+    "location": {
+      "latitude": 41.91670833333333,
+      "longitude": -87.69999444444444
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "80.jpg",
+    "location": {
+      "latitude": 41.85158888888889,
+      "longitude": -87.70337500000001
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "81.jpg",
+    "location": {
+      "latitude": 41.80740833333333,
+      "longitude": -87.66848333333334
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "82.jpg",
+    "location": {
+      "latitude": 41.93210277777778,
+      "longitude": -87.711325
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "83.jpg",
+    "location": {
+      "latitude": 41.924299999999995,
+      "longitude": -87.71383055555556
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "84.jpg",
+    "location": {
+      "latitude": 41.92321666666666,
+      "longitude": -87.70381666666667
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 2
+  },
+  {
+    "image_name": "85.jpg",
+    "location": {
+      "latitude": 41.74113055555556,
+      "longitude": -87.61158888888889
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "86.jpg",
+    "location": {
+      "latitude": 41.809999999999995,
+      "longitude": -87.70681944444445
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "87.jpg",
+    "location": {
+      "latitude": 41.92268055555555,
+      "longitude": -87.70821944444445
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 5
+  },
+  {
+    "image_name": "88.jpg",
+    "location": {
+      "latitude": 41.97705,
+      "longitude": -87.71599722222223
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "89.jpg",
+    "location": {
+      "latitude": 41.7372,
+      "longitude": -87.60881666666666
+    },
+    "rating": 1,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "9.jpg",
+    "location": {
+      "latitude": 41.85966666666667,
+      "longitude": -87.70864722222223
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "90.jpg",
+    "location": {
+      "latitude": 41.77208888888889,
+      "longitude": -87.64691666666667
+    },
+    "rating": 8,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": 3
+  },
+  {
+    "image_name": "91.jpg",
+    "location": {
+      "latitude": 41.79866111111111,
+      "longitude": -87.68070277777778
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "92.jpg",
+    "location": {
+      "latitude": 41.929363888888886,
+      "longitude": -87.718825
+    },
+    "rating": 4,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "93.jpg",
+    "location": {
+      "latitude": 41.85434444444444,
+      "longitude": -87.69976944444444
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "94.jpg",
+    "location": {
+      "latitude": 41.82320277777778,
+      "longitude": -87.69177222222223
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "95.jpg",
+    "location": {
+      "latitude": 41.860794444444444,
+      "longitude": -87.69493333333334
+    },
+    "rating": 2,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "96.jpg",
+    "location": {
+      "latitude": 41.77071111111111,
+      "longitude": -87.65146666666668
+    },
+    "rating": 7,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "97.jpg",
+    "location": {
+      "latitude": 41.95778611111111,
+      "longitude": -87.67504166666667
+    },
+    "rating": 9,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "98.jpg",
+    "location": {
+      "latitude": 41.80882222222222,
+      "longitude": -87.69606944444445
+    },
+    "rating": 3,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  },
+  {
+    "image_name": "99.jpg",
+    "location": {
+      "latitude": 41.754866666666665,
+      "longitude": -87.616625
+    },
+    "rating": 5,
+    "factors": [
+      "Are there humans injured in the image?"
+    ],
+    "cluster": -1
+  }
+]

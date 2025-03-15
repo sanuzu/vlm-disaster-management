@@ -1,0 +1,51 @@
+[
+  {
+    "cluster_id": 0.0,
+    "latitude": 41.74529375,
+    "longitude": -87.61841249999999,
+    "average_rating": 5.76,
+    "image_count": 46
+  },
+  {
+    "cluster_id": 1.0,
+    "latitude": 41.73913125,
+    "longitude": -87.62116388888889,
+    "average_rating": 4.8,
+    "image_count": 15
+  },
+  {
+    "cluster_id": 2.0,
+    "latitude": 41.92427555555555,
+    "longitude": -87.70256833333335,
+    "average_rating": 5.81,
+    "image_count": 104
+  },
+  {
+    "cluster_id": 3.0,
+    "latitude": 41.771872916666666,
+    "longitude": -87.64739305555557,
+    "average_rating": 5.93,
+    "image_count": 30
+  },
+  {
+    "cluster_id": 4.0,
+    "latitude": 41.80535722222222,
+    "longitude": -87.66467444444444,
+    "average_rating": 5.96,
+    "image_count": 122
+  },
+  {
+    "cluster_id": 5.0,
+    "latitude": 41.92180722222222,
+    "longitude": -87.70788611111111,
+    "average_rating": 5.03,
+    "image_count": 72
+  },
+  {
+    "cluster_id": 6.0,
+    "latitude": 41.76649444444445,
+    "longitude": -87.64626805555557,
+    "average_rating": 5.82,
+    "image_count": 11
+  }
+]
