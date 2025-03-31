@@ -76,7 +76,7 @@ def main():
                     from damage_assessor import main as process_images
                     from cluster_analysis import find_clusters
                     
-                    #process_images(image_folder=st.session_state.image_folder)
+                    process_images(image_folder=st.session_state.image_folder)
 
                     with open(ASSESSMENT_FILE) as f:
                         assessments = json.load(f)

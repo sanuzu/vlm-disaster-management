@@ -52,37 +52,35 @@ def extract_geotag(image_path):
 
 def get_damage_rating(image_path, factors):
     """Get damage rating using Florence-2 with robust parsing"""
-    try:
-        image = Image.open(image_path)
-        factors_text = "\n".join(f"- {factor}" for factor in factors)
+    
+    image = Image.open(image_path)
+    factors_text = "\n".join(f"- {factor}" for factor in factors)
+    
+    prompt = (
+        "<VQA>Question: What's the disaster severity from 1-10 considering:\n"
+        f"{factors_text}\n"
+        "Consider structural damage, human impact, and environmental effects.\n"
+        "Answer with only the number between 1 and 10. Answer:"
+    )
+
+    inputs = processor(
+        text=prompt,
+        images=image,
+        return_tensors="pt"
+    ).to(model.device)
+
+    outputs = model.generate(
+        **inputs,
+        max_new_tokens=10,
+        temperature=0.1  # For more deterministic outputs
+    )
+
+    answer = processor.decode(outputs[0], skip_special_tokens=True)
+    numbers = [int(s) for s in answer.split() if s.isdigit()]
+    rating = min(10, max(1, numbers[0])) 
+    return rating
         
-        prompt = (
-            "<VQA>Question: What's the disaster severity from 1-10 considering:\n"
-            f"{factors_text}\n"
-            "Consider structural damage, human impact, and environmental effects.\n"
-            "Answer with only the number between 1 and 10. Answer:"
-        )
-
-        inputs = processor(
-            text=prompt,
-            images=image,
-            return_tensors="pt"
-        ).to(model.device)
-
-        outputs = model.generate(
-            **inputs,
-            max_new_tokens=10,
-            temperature=0.1  # For more deterministic outputs
-        )
-
-        answer = processor.decode(outputs[0], skip_special_tokens=True)
-        numbers = [int(s) for s in answer.split() if s.isdigit()]
-        rating = min(10, max(1, numbers[0])) if numbers else 5
-        return rating
-        
-    except Exception as e:
-        print(f"Error processing {image_path}: {str(e)}")
-        return 5
+    
 
 def main():
     # Load assessment factors
