@@ -1,1 +1,3 @@
 Are there humans injured in the image?
+Are there animals injured?
+Are there buildings destroyes?
