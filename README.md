@@ -1,5 +1,4 @@
 <!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8" /> </head> <body> <h1>Disaster Management Application Powered by Florence‑2 VLM</h1> <p> An innovative disaster management application that leverages a Visual Language Model—specifically Microsoft’s Florence‑2—to rapidly assess, cluster, and visualize disaster severity based solely on images and geotags. This project provides emergency responders with real‑time insights to prioritize and act during disaster scenarios. </p>
-text
 <h2>Table of Contents</h2>
 <ol>
   <li><a href="#introduction">Introduction</a></li>
@@ -96,7 +95,7 @@ text
 └── README.html # This documentation file (HTML version)
 </pre>
 
-text
+
 <h2 id="installation">Installation</h2>
 <h3>Prerequisites</h3>
 <ul>
@@ -134,7 +133,7 @@ If you do not have a <code>requirements.txt</code>, install manually:
 </li>
 </ol>
 
-text
+
 <h2 id="usage">Usage</h2>
 <h3>Data Preparation</h3>
 <p>
